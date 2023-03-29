@@ -1,4 +1,4 @@
-package primera_entrega;
+package modelo;
 
 public class TablaDePuntajes {
 
